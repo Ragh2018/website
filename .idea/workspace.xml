@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8f31df55-2dda-41bf-94c6-910d3181dc3a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music/templates/music/index.html" afterPath="$PROJECT_DIR$/music/templates/music/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music/views.py" afterPath="$PROJECT_DIR$/music/views.py" />
     </list>
     <ignored path="website.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -581,7 +579,8 @@
     <MESSAGE value="adding songs detail" />
     <MESSAGE value="removing hardcoded url" />
     <MESSAGE value="url code if more than 1 app have same view" />
-    <option name="LAST_COMMIT_MESSAGE" value="url code if more than 1 app have same view" />
+    <MESSAGE value="removing try except statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing try except statement" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1001,14 +1000,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/music/templates/music/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/music/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1023,6 +1014,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="84" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/templates/music/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
           <folding />
         </state>
       </provider>
